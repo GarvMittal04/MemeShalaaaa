@@ -14,7 +14,6 @@
             padding: 10px;
             border-radius: 10px;
         }
-
         h4 {
             color: black;
             text-decoration: underline;
@@ -42,14 +41,12 @@
                 console.error("Error fetching meme:", error);
             }
         }
-        
         MemeShalaaaa();
         let timer = setInterval(MemeShalaaaa, 2000);
 
         img.addEventListener("mouseover", function () {
             clearInterval(timer);
         });
-
         img.addEventListener("mouseleave", function () {
             timer = setInterval(MemeShalaaaa, 2000);
         });

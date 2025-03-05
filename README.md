@@ -1,4 +1,4 @@
-https://memeshalaaaa.netlify.app/
+https://garvmittal04.github.io/MemeShalaaaa/
 MemeShalaaaa
 -MemeShalaaaa is a simple web application that fetches and displays random memes using the Meme API. The memes update automatically every 2 seconds and pause on hover.
 
